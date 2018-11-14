@@ -47,7 +47,7 @@ body{
     padding-top: 62px;
 }
 
-.download-template{
+/*.download-template{
     color: #fff;
     background-color: #ed36ad;
     border: none;
@@ -60,12 +60,12 @@ body{
 
 .download-template:hover{
     background-color: #fb5ec4;
-}
+}*/
 
-.gradient{
+/*.gradient{
     background: linear-gradient(120deg, #7f70f5, #0ea0ff);
     color: #fff !important;
-}
+}*/
 
 .solid{
     background-color: #7f70f5;
