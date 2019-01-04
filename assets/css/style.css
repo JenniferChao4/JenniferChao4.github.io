@@ -9,8 +9,20 @@ body{
     src: url('font-awesome/fonts/fontawesome-webfont.ttf') format('truetype');
 }
 
+.secret {
+    padding-top: 25px;
+    text-align: center;
+}
+
+.secret a {
+    font-size: 18px;
+    font-weight: bold;
+    color: #673E3A;
+    text-decoration: none;
+}
+
 .a {
-  list-style: none;
+    list-style: none;
 }
 
 .a:before {
