@@ -1,2 +1,2 @@
-# JenniferChao4.github.io
-Passion Project
+# Personal Website
+A somewhat casual online resume.
